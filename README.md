@@ -1,3 +1,1 @@
-Floricultura: site que estou desenvolvendo para teste pessoal.
-
-Home: códigos comentados sobre HTML
+Códigos em Javascript com comentários
