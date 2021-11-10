@@ -23,12 +23,11 @@ let corSelecao = null; //objeto, para redefinir valor
 
 //OBJETO: junta as informações para acessar através da propriedade do objeto
 let pessoa = {
-    nome: 'Thiago',
-    idade: 39,
+    nome: 'Karol',
+    idade: 22,
     estaAprovado: true,
     sobrenome: 'Batistela',
-    corFavorita: 'black',
-    esposa: 'Karol'
+    corFavorita: 'amarelo',
 };
 
 console.log(pessoa);
@@ -40,7 +39,7 @@ let familia = [22,39,45,53]
 console.log(familia.length); //exibe o tamanho do array
 console.log(familia[2]); //o 2 é o índice para exibir o valor que está nessa posição
 
-let nomeDoColega = ['Karol',22,'Americana','Roxo','SP','Thiago']
+let nomeDoColega = ['Karol',22,'Americana','Roxo','SP']
 console.log(nomeDoColega);
 console.log(nomeDoColega[3]);
 console.log(nomeDoColega.length);
