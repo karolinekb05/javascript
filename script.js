@@ -112,11 +112,3 @@ console.log('1' === 1); //vai dar false porque um é string e o outro é number
 
 //Igualdade solta (não é recomendado usar esse)
 console.log(1 == 1); //compara apenas os valores
-
-//Operador Ternário
-
-//Lógicos
-
-
-//Bitwise
-
